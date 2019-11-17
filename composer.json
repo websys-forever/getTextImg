@@ -1,5 +1,5 @@
 {
-    "name": "websys-forever/getTextImg",
+    "name": "websys-forever/gettextimg",
     "description": "return text in image",
     "type": "library",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "WebsysForever\\getTextImg\\": "src"
+            "WebsysForever\\": "src"
          }
     }
 }

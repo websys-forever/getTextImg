@@ -1,6 +1,6 @@
 <?php
 
-namespace WebsysForever\GetTextImg;
+namespace WebsysForever;
 
 class GetTextImg
 {
