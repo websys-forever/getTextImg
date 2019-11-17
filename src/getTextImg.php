@@ -2,7 +2,7 @@
 
 namespace WebsysForever;
 
-class GetTextImg
+class getTextImg
 {
     private $img;
 
