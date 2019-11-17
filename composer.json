@@ -1,0 +1,17 @@
+{
+    "name": "websys-forever/getTextImg",
+    "description": "return text in image",
+    "type": "library",
+    "authors": [
+        {
+            "name": "WebsysForever",
+            "email": "websys.forever@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WebsysForever\\": "src"
+         }
+    }
+}
